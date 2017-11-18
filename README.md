@@ -1,1 +1,1 @@
-test.extension.chrome
+test.ex.chrome
